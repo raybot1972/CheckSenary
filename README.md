@@ -80,7 +80,3 @@ Use with caution. Removing drivers may affect audio functionality. Always verify
 Pull requests welcome! If you encounter edge cases or want to extend functionality (e.g., registry inspection, WASAPI probing), feel free to fork and build.
 
 ---
-
-```
-
-Let me know if you want to add screenshots, badges, or GitHub Actions for CI. We can also scaffold a `setup.py` or `.bat` launcher for non-technical users.
