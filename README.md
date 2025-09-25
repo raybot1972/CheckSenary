@@ -1,8 +1,3 @@
-Absolutely, Raymond. Here's a clean and informative `README.md` tailored for your **Fix Senary Audio Mic via Jack** script:
-
----
-
-```markdown
 # Fix Senary Audio Mic via Jack 🎧🛠
 
 This Python GUI tool helps diagnose and fix microphone issues caused by misclassified audio drivers—specifically targeting **SenaryAudio** extensions that incorrectly detect headset jacks as output-only. It automates the process of purging problematic INF drivers and restoring proper mic functionality.
